@@ -9,4 +9,4 @@ Ana Beatriz Mojica,
 Juan Sebastián Rojas,
 Williám Robayo,
 Geovany Sanchez,
-Lciana Rodriguez Noya.
+Luciana Rodriguez Noya.
