@@ -1,6 +1,6 @@
-Alien Wave
+Proyecto: Alien Wave
 
-AR shooter. Se enfrenta a tres ordas de enemigos alienígenas mientras la nave para volver a casa está siendo reparada.
+Descripción: AR shooter. Se enfrenta a tres ordas de enemigos alienígenas mientras la nave para volver a casa está siendo reparada.
 
 Integrantes
 
